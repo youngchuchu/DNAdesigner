@@ -1,0 +1,10 @@
+   
+Future tasks:    
+Later on, we will need to add the option to perform these operations in reverse. What this means is that we will need to allow a user to input proteinDistance, dihedralAngle, and arcDepth. Then the program will output two appropriate TAL distances. The dihedral must also be associated somehow with a "likelihood of monomerization problems." And of course, it must also output a DNA sequence!
+
+After this basic functionality is added, our next steps are to do a few different things.
+1) It is absolutely vital that this functionality be extended to three or four tal monomers, AT THE VERY LEAST.
+2) More complex shapes are less important but still would be absolutely excellent!!
+3) An output to a .blend file is no longer vital. Our new focus is on visual output using openGL.
+4) Finally, ALL OF THE WORK DONE HERE WITH THIS PROGRAM MUST BE VALIDATED EMPIRICALLY.
+    
