@@ -8,9 +8,9 @@ There are currently three programs bundled in this software package, all complem
 
 - The first is a simple **Recommended TAL-structure selector**, which allows a user to dictate a general shape of DNA structure, and acquire the closest structure that has been empirically proven to work (as per the supplementary from Praetorius and Dietz' 2017 paper). The software provides important physical properties of each structure, such as interenzyme distance between TAL N-terminal-mounted proteins, and the likelihood that the selected structure will produce higher order structures (i.e. do the TAL-structures dimerize?). 
 
-<p float="left">
-  <img src="https://github.com/malyalar/DNAdesigner/blob/master/RudimentaryFiles/sample1.PNG" width="200" />
-  <img src="https://github.com/malyalar/DNAdesigner/blob/master/RudimentaryFiles/sample2.PNG" width="200" /> 
+<p float="middle">
+  <img src="https://github.com/malyalar/DNAdesigner/blob/master/RudimentaryFiles/sample1.PNG" width="300" />
+  <img src="https://github.com/malyalar/DNAdesigner/blob/master/RudimentaryFiles/sample2.PNG" width="300" /> 
 </p>
 
 - The second is a more complex software tool: **New TAL-structure generator**. This program generates *de novo* DNA origami shapes and primary sequences, made ready-to-order. The software, using established physical properties of DNA and the dsDNA origami design rules laid out by Praetorius et al., takes user input in the form of selected spaces between TAL-staples (in integer base pairs) and predicts the shape, structure, and other physical properties of the nanostructure. This greatly simplifies the process of dsDNA origami design, although as usual, it is important to carefully look over the output before placing any order.
